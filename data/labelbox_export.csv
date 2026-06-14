@@ -1,0 +1,6 @@
+row_id,text,gold_label,batch_id
+1,I love this product,positive,batch_1
+2,Very bad experience,negative,batch_1
+3,It is okay,neutral,batch_1
+4,Amazing support,positive,batch_2
+5,Terrible quality,negative,batch_2
