@@ -1,0 +1,6 @@
+Classify the sentiment of the text.
+
+Return only one label:
+positive
+negative
+neutral
